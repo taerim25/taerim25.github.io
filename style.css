@@ -1,0 +1,22 @@
+inputs{
+    color: rgba(204, 20, 173, 0.5);
+    font-family: "Helvetica";
+}
+
+headers.this{
+    font-family: "Arial";
+    color:blue;
+}
+images>img{
+    width:70%; 
+    height:70%;
+}
+body{
+    background-color:orange;
+    border: 10px solid red;
+    padding: 2 4 2 6;
+}
+lists>ul>li.yep{
+    font-family: "Comic Sans";
+    color: white;
+}
